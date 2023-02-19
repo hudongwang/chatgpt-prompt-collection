@@ -43,6 +43,14 @@ grammer check: xxx
 ```
 用 emoji 表示一下：
 白日依山尽，黄河入海流
+
+all emoji about: test
+🧪 - test tube
+📝 - memo
+📋 - clipboard
+📄 - page facing up
+💻 - computer
+...
 ```
 
 ## 研发
