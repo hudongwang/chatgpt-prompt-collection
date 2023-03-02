@@ -1,8 +1,10 @@
 # chatgpt-prompt-collection
 
-- 翻译
-- 语法检查
-- emoji
+- 自然语言
+  - 翻译
+  - 语法检查
+  - emoji
+  - 缩写
 - 研发
 - 文案生成
 
@@ -51,6 +53,13 @@ all emoji about: test
 📄 - page facing up
 💻 - computer
 ...
+```
+## 缩写
+
+```
+Effective 的缩写
+
+"Effective" 的常见缩写是 "Eff"。
 ```
 
 ## 研发
